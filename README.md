@@ -1,2 +1,2 @@
 # New Project 
-This project was created from local system. Created by Kunal Patil
+This project was created from local system. Created by Kunal Patil.
